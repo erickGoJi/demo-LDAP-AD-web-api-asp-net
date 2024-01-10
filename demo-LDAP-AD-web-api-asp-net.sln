@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-LDAP-AD-web-api-asp-net", "demo-LDAP-AD-web-api-asp-net.csproj", "{A61621A2-F1AB-42C6-AD69-490D02E5D9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61621A2-F1AB-42C6-AD69-490D02E5D9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61621A2-F1AB-42C6-AD69-490D02E5D9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61621A2-F1AB-42C6-AD69-490D02E5D9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61621A2-F1AB-42C6-AD69-490D02E5D9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
